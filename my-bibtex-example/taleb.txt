@@ -1,0 +1,14 @@
+This is some rambling about a good book, filler text.
+
+The belief that there are simple heuristics to understand cause and effect in systems that are random is widespread. 
+Faulty thinking about how probability works makes people do irrational things.
+People cannot easily take into account alternate histories, it is harder to imagine a different outcome than the one that already exits.
+Reality actually exists, so people assign much more weight to the random events that made the present moment the way it is.
+Random events with very unequal outcomes (such as getting \$10 million for playing a round of Russian Roulette),
+the kind where one bad outcome wipes out all previous gains are not well understood by many people.
+This is analogous to option traders, where you can lose much more than your initial investment.
+Most of the time you will survive Russian Roulette, and most years option traders make a profit.
+But when a bad outcome happens it can wipe out everything.
+When a trader is making money they assume that they are doing things correctly, not just being a person amidst noise.
+No one ever actually believes they are lucky, everyone wants to believe they are smart and figured out the system's rules.
+Most complex systems have randomness as a dominating factor, but it is our nature as humans to find patterns, so we often times derive meaning from nothing.
