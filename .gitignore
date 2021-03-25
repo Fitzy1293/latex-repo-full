@@ -4,4 +4,6 @@
 /*.dvi
 *.fdb_latexmk
 *.log
+*.out
+*.fls
 missfont.log
