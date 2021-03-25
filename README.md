@@ -24,3 +24,15 @@ To install LaTeX on an Arch based system run -
 
 and that handles almost anything LaTeX related.
 
+If you use Arch and want to beautify LaTeX files, install `texlive-latexindent-meta` from the AUR.
+
+`yay -S texlive-latexindent-meta`
+
+Then add this alias. 
+
+`alias texfix="latexindent -w $1 -s"`
+
+$1 is the .tex file.
+
+This automatically fixes formatting, so you don't go mad tabbing.
+
