@@ -8,6 +8,7 @@
 It provides: 
 
 - Compilation on save.
+- Good autocompletion.
 - A command to clean build files.
 - A PDF viewer in VS Code that updates on save.
 - The ability to preview equations by hovering over them, before compilation.
@@ -22,3 +23,4 @@ To install LaTeX on an Arch based system run -
 `sudo pacman -S texlive-most`
 
 and that handles almost anything LaTeX related.
+
