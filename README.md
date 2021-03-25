@@ -24,7 +24,7 @@ To install LaTeX on an Arch based system run -
 
 and that handles almost anything LaTeX related.
 
-If you use Arch and want to beautify LaTeX files, install `texlive-latexindent-meta` from the AUR.
+If you use an Arch based system and want to beautify LaTeX files, install `texlive-latexindent-meta` from the AUR.
 
 `yay -S texlive-latexindent-meta`
 
